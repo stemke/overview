@@ -8,7 +8,12 @@ Getting started with IBM Cloud
     {: .navgroup id="learn"}
     ibm-cloud-platform.md
     it-ops-journey.md
-    compare-infra.md
+    
+    {: .topicgroup}
+    Comparing infrastructure environments
+        compare-infra.md
+        compare-infraVPCtoVPCoC.md
+     
     personalized-assistance.md
     whats-new/index.md
 
