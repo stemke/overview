@@ -43,7 +43,7 @@ See the following table for the compute differences between classic and VPC.
 | Pricing | Hourly and monthly billing, plus suspend billing features | Hourly, suspend billing, and sustained usage discount |
 | Virtual server families | Public, dedicated, transient, reserved | Public only |
 | Profiles | All profiles, including the GPU profiles | Balanced, compute, memory profiles with higher RAM and vCPU options |
-| Supported images | Full set of pre-stock images, plus custom images | Limited set of pre-stock images|
+| Supported images | Full set of pre-stock images, plus custom images | Limited set of pre-stock images, plus the ability to import a custom image|
 | Platform integration | | IAM and resource group integration for a unified experience |
 {: row-headers}
 {: class="comparison-table"}
