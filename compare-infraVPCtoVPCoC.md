@@ -58,8 +58,8 @@ We are always adding new features and support. Over time, there will be fewer co
 |Public gateway| |
 |Security groups| |
 |Network access control lists (ACLs)| ACLs are supported for generation 1 resources only.  |
-|VPN| VPN is supported for generation 1 resources only.   |
-|Load balancer| Load balancer is supported for generation 1 resources only.  |
+|VPN| VPN is supported in Beta for generation 2 resources.   |
+|Load balancer| Load balancer is supported in Beta for generation 2 resources.  |
 |Access to classic infrastructure| Access to classic infrastructure is supported for generation 1 resources only. |
 {: table="table3"}
 {: tab-title="Network"}
